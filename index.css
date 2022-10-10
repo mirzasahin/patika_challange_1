@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'roboto_monoregular';
+    src: url('robotomono-variablefont_wght-webfont.woff2') format('woff2'),
+        url('robotomono-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    height: 100%;
+    background-image: url('./background_image.jpg');
+    background-size: cover;
+
+    backdrop-filter: blur(2px);
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 155px;
+    border-color: rgba(0, 0, 0, 0.5);
+
+}
+
+#intro {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(254, 155, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.301);
+
+}
+
+#introSentence {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+#time {
+    font-size: 30px;
+    color: rgb(243, 243, 243);
+}
+
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+}
