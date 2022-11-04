@@ -5,4 +5,7 @@
  With *JavaScript* function was created and **if-else parameters** were used.
  
  This project is the first project I uploaded to githup. In this process, I learned how to use *git and githup*.
+ 
+ 
 
+![Re_ Library _ Loom - 4 November 2022](https://user-images.githubusercontent.com/71216931/200002435-c8e0a0dc-f805-4dd2-b066-de02d7f4a1a7.gif)
